@@ -1,2 +1,2 @@
-Added an irrelevant line to the readme file for testing if pr works
-First time doing a pull request in the right way :)
+This file was created to practice Git branching,
+Pull Requests, and Code Reviews.
